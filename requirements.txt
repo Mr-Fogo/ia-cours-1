@@ -6,3 +6,9 @@ pyright
 pylint
 flake8
 isort
+pandas
+scikit-learn
+seaborn
+matplotlib
+pytest
+pytest-cov
